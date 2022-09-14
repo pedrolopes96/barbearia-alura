@@ -1,5 +1,22 @@
+* { margin: 0; box-sizing: border-box; text-decoration: none; }
+
 header {
     background-color: #CCCCCC;
+    padding: 20px 0;
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+
+
 }
 
 nav li {
@@ -14,3 +31,4 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
